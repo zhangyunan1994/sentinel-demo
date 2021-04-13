@@ -10,6 +10,10 @@
     <version>1.0-SNAPSHOT</version>
     <modules>
         <module>sentinel-java</module>
+        <module>sentinel-cluster-alone</module>
+        <module>sentinel-spring3</module>
+        <module>sentinel-with-dashboard</module>
+        <module>sentinel-demo-cluster</module>
     </modules>
 
     <properties>
